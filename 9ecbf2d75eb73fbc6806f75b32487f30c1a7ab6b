@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAWX///+M\u003d",
+        "filename": "jewel.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-08-18T01:30:15Z",
+      "side": 1,
+      "message": "I would rather you merged the contents of these files into snd_soc_msm_2x and fix the format of snd_soc_msm_2x. However this is a lot of annoying copy-pasting so I can understand if you don\u0027t want to.",
+      "revId": "9ecbf2d75eb73fbc6806f75b32487f30c1a7ab6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWX///+g\u003d",
+        "filename": "jewel.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-08-18T01:30:15Z",
+      "side": 1,
+      "message": "why is this an ifeq? why not just do it unconditionally?",
+      "revId": "9ecbf2d75eb73fbc6806f75b32487f30c1a7ab6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWX///+U\u003d",
+        "filename": "overlay/frameworks/base/core/res/res/xml/power_profile.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-08-18T01:30:15Z",
+      "side": 1,
+      "message": "while you are changing the cpu speeds, why not change the battery capacity as well?",
+      "revId": "9ecbf2d75eb73fbc6806f75b32487f30c1a7ab6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
