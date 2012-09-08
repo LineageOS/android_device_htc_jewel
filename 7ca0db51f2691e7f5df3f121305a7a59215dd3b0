@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAXX///tI\u003d",
+        "filename": "dsp/snd_soc_msm/snd_soc_msm_2x",
+        "patchSetId": 2
+      },
+      "lineNbr": 6036,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-09-08T02:48:53Z",
+      "side": 1,
+      "message": "other section was tabs, this looks like spaces? should probably change it to tabs to be consistent with the rest of the file.",
+      "revId": "7ca0db51f2691e7f5df3f121305a7a59215dd3b0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
