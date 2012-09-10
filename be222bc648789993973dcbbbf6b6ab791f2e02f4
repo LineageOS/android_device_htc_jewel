@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAXX///Q8\u003d",
+        "filename": "ramdisk/init.jet.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-09-10T07:27:42Z",
+      "side": 1,
+      "message": "I\u0027m not certain this is necessary since we aren\u0027t using HTC\u0027s driver anymore",
+      "revId": "be222bc648789993973dcbbbf6b6ab791f2e02f4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
