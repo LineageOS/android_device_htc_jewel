@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAXX///Og\u003d",
+        "filename": "ramdisk/init.jet.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 176,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-09-10T12:06:14Z",
+      "side": 1,
+      "message": "we don\u0027t pull this proprietary file. actually I\u0027m not sure the stock HTC rom even has it.",
+      "revId": "36d8dce1877fce12c07fc2daffe78553ad67787d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAXX///Oc\u003d",
+        "filename": "ramdisk/init.jet.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 304,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-09-10T12:06:14Z",
+      "side": 1,
+      "message": "not sure we have this file either",
+      "revId": "36d8dce1877fce12c07fc2daffe78553ad67787d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAXX///OY\u003d",
+        "filename": "ramdisk/ueventd.jet.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-09-10T12:06:14Z",
+      "side": 1,
+      "message": "jewel has tpa2051d3?",
+      "revId": "36d8dce1877fce12c07fc2daffe78553ad67787d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
