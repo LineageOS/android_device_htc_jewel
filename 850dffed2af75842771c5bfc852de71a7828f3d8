@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAYX//92o\u003d",
+        "filename": "dsp/snd_soc_msm/snd_soc_msm_2x",
+        "patchSetId": 1
+      },
+      "lineNbr": 5644,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-09-19T03:20:10Z",
+      "side": 1,
+      "message": "fix your trailing whitespace :(",
+      "revId": "850dffed2af75842771c5bfc852de71a7828f3d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
