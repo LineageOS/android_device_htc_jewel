@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAY3///Fg\u003d",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-10-09T21:59:00Z",
+      "side": 1,
+      "message": "you are overwriting the previous line, what you meant to do is subscriptionFromSource, skipnullaid",
+      "revId": "689782b9926f01e780605d4c34d303fa2cb9de68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
