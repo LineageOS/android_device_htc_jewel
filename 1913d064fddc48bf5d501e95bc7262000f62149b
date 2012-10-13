@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAY3//+Gk\u003d",
+        "filename": "ramdisk/init.jet.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 160,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-10-13T21:27:12Z",
+      "side": 1,
+      "message": "I don\u0027t think our usb driver provides this",
+      "revId": "1913d064fddc48bf5d501e95bc7262000f62149b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//+Gg\u003d",
+        "filename": "ramdisk/init.jet.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 263,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-10-13T21:27:12Z",
+      "side": 1,
+      "message": "I\u0027m also fairly certain we don\u0027t use this either, also, alphabetization",
+      "revId": "1913d064fddc48bf5d501e95bc7262000f62149b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//+Gc\u003d",
+        "filename": "ramdisk/init.jet.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 268,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-10-13T21:27:12Z",
+      "side": 1,
+      "message": "I\u0027d prefer if you put the property triggers below service definitions with the other property triggers",
+      "revId": "1913d064fddc48bf5d501e95bc7262000f62149b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//+GU\u003d",
+        "filename": "ramdisk/ueventd.jet.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-10-13T21:27:12Z",
+      "side": 1,
+      "message": "fairly certain we don\u0027t care about usb_composite anymore",
+      "revId": "1913d064fddc48bf5d501e95bc7262000f62149b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
