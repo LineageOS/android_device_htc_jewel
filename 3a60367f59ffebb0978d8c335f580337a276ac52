@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAY3//+Gw\u003d",
+        "filename": "overlay/frameworks/base/core/res/res/xml/power_profile.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-10-13T21:20:12Z",
+      "side": 0,
+      "message": "I\u0027m pretty sure the these speeds shouldn\u0027t be dropped",
+      "revId": "3a60367f59ffebb0978d8c335f580337a276ac52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
