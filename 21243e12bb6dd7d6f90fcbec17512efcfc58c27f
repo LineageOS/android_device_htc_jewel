@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAY3//9Mg\u003d",
+        "filename": "ramdisk/init.jet.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 247,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-10-15T23:09:08Z",
+      "side": 1,
+      "message": "is this necessary? it doesn\u0027t look like jewel even has the port-bridge binary",
+      "revId": "21243e12bb6dd7d6f90fcbec17512efcfc58c27f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//9MU\u003d",
+        "filename": "ramdisk/init.jet.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 328,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-10-15T23:09:08Z",
+      "side": 1,
+      "message": "port-bridge related",
+      "revId": "21243e12bb6dd7d6f90fcbec17512efcfc58c27f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//9MQ\u003d",
+        "filename": "ramdisk/init.jet.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 331,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-10-15T23:09:08Z",
+      "side": 1,
+      "message": "port-bridge related",
+      "revId": "21243e12bb6dd7d6f90fcbec17512efcfc58c27f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//9MI\u003d",
+        "filename": "ramdisk/ueventd.jet.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-10-15T23:09:08Z",
+      "side": 1,
+      "message": "this is system qcom_diag in the root uevent.d which is what it should be. we should probably revisit radio permissions as a whole since the qcom_diag permission switch is in CM.",
+      "revId": "21243e12bb6dd7d6f90fcbec17512efcfc58c27f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
