@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3///ns\u003d",
+        "filename": "ramdisk/ueventd.jet.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-11-05T13:55:55Z",
+      "side": 1,
+      "message": "this exists in the main uevent.d",
+      "revId": "db8dea1e0f67b04f3652bd51a58848b71fde0860",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3///nw\u003d",
+        "filename": "ramdisk/ueventd.jet.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-11-05T13:55:55Z",
+      "side": 1,
+      "message": "this is listed twice?",
+      "revId": "db8dea1e0f67b04f3652bd51a58848b71fde0860",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
