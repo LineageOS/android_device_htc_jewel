@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3//4ZE\u003d",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-12-04T14:43:49Z",
+      "side": 1,
+      "message": "what happened here?",
+      "revId": "6b0c6a899e0f59d2eaa69d3eb29c69c1d72df642",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
