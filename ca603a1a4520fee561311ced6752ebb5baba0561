@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dac4157f_5512a9b5",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-07-16T03:53:41Z",
+      "side": 0,
+      "message": "Doesn\u0027t actually matter if you remove it, this is meant to signal that the libril to be built is in device/htc/msm8960-common and not hardware/ril/libril.",
+      "revId": "ca603a1a4520fee561311ced6752ebb5baba0561",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
