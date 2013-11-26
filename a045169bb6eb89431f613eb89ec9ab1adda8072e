@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa80f949_f2e1c8d1",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-11-26T09:08:26Z",
+      "side": 1,
+      "message": "jewel isn\u0027t using this AFAIK, it still uses a /sdcard partition",
+      "revId": "a045169bb6eb89431f613eb89ec9ab1adda8072e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_92e63ce7",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-11-26T09:08:26Z",
+      "side": 1,
+      "message": "Is -w 1023 useful here?",
+      "revId": "a045169bb6eb89431f613eb89ec9ab1adda8072e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
