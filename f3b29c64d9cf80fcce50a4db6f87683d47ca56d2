@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_cc669a2a",
+        "filename": "jewel.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-05-10T14:27:20Z",
+      "side": 1,
+      "message": "Weren\u0027t you declaring the module as nfc.$(TARGET_DEVICE) ?",
+      "range": {
+        "startLine": 75,
+        "startChar": 4,
+        "endLine": 75,
+        "endChar": 15
+      },
+      "revId": "f3b29c64d9cf80fcce50a4db6f87683d47ca56d2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
