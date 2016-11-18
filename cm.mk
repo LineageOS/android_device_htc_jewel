@@ -19,9 +19,6 @@ $(call inherit-product, device/htc/jewel/full_jewel.mk)
 # Inherit CM full phone configuration
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
-# Enhanced NFC
-$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
-
 # Device naming
 PRODUCT_NAME := cm_jewel
 
