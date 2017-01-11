@@ -1,4 +1,4 @@
-#
+# Copyright 2017 The LineageOS Project
 # Copyright 2016 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,15 +12,14 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-#
 
 $(call inherit-product, device/htc/jewel/full_jewel.mk)
 
-# Inherit CM full phone configuration
+# Inherit LineageOS full phone configuration
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Device naming
-PRODUCT_NAME := cm_jewel
+PRODUCT_NAME := lineage_jewel
 
 # Override build props
 PRODUCT_BUILD_PROP_OVERRIDES += \
