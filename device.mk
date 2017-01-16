@@ -1,5 +1,5 @@
-#
-# Copyright 2016 The CyanogenMod Project
+# Copyright (C) 2017 The LineageOS Project
+# Copyright (C) 2016 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -12,7 +12,6 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-#
 
 # Get non-open-source specific aspects
 $(call inherit-product-if-exists, vendor/htc/jewel/jewel-vendor.mk)
@@ -35,8 +34,10 @@ $(call inherit-product, frameworks/native/build/phone-xhdpi-1024-dalvik-heap.mk)
 
 # Audio
 PRODUCT_COPY_FILES += \
+    device/htc/jewel/configs/audio_effects.conf:system/vendor/etc/audio_effects.conf \
+    device/htc/jewel/configs/audio_platform_info.xml:system/etc/audio_platform_info.xml \
     device/htc/jewel/configs/audio_policy.conf:system/etc/audio_policy.conf \
-    device/htc/jewel/dsp/snd_soc_msm/snd_soc_msm_2x:system/etc/snd_soc_msm/snd_soc_msm_2x
+    device/htc/jewel/configs/mixer_paths.xml:system/etc/mixer_paths.xml
 
 # FM radio
 PRODUCT_PACKAGES += \
@@ -87,3 +88,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     fstab.qcom \
     init.target.rc
+
+# Voice processing
+PRODUCT_PACKAGES += \
+    libqcomvoiceprocessing
